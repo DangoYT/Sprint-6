@@ -9,7 +9,6 @@ import CheckList from '../CheckList'
 import TasksLeft from '../TasksLeft'
 import Filters from '../Filters'
 import styles from './styles.module.css'
-import ClearAll from '../ClearALL/ClearAll';
 
 /**
  * Componente principal de la aplicación.
